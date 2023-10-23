@@ -7,7 +7,7 @@
 5-) [2,6,16,18,22,27]  (final dizilim)
 
 Big-O = O(n^2) 
-18 sayısı Average case'e girer.
+--18 sayısı Average case'e girer.--
 
 [7,3,5,8,2,9,4,15,6] -> selection sort ilk 4 adımı
 1-) [7,3,5,8,2,9,4,15,6] 
